@@ -7,7 +7,7 @@ import json
 
 
 pdf_path = "AI_Information.en.zh-CN.pdf"
-API_KEY = "f532b4bd71324c1ca2fd7e22d4eb41da.4Sfpr8wE6qEVV5BY"
+API_KEY = ""
 
 # 设置模型
 client = ZhipuAI(api_key = API_KEY) 
